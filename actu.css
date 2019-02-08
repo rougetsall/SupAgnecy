@@ -1,0 +1,284 @@
+body {
+    padding: 0;
+    margin: 0;
+    font-family: "Open-Sans";
+    src:url("Open-Sans.ttf");
+    
+}
+
+
+.Actu {
+    position: absolute;
+    margin-top: -120px;
+    margin-left: 45%;
+    font-size: 200%;
+    color: white;
+    font-weight: bold;
+    font-size: 330%;
+}   
+.vague {
+    width: 100%;
+    height: 150px;
+    z-index: -1;
+}
+
+.logo {
+    position: absolute;
+    margin-top: -11%;
+    width: 5%;
+    margin-left: 9%;
+    z-index: 1;
+}
+
+.burger {
+    position: absolute;
+    margin-top: -9%;
+    width: 5%;
+    margin-left: 1%;
+    z-index: 1;
+    
+}
+
+.carre {
+    margin-top: 22%;
+    background-color: #FF9F54;
+    height: 30%;
+    width: 50%;
+}
+
+.mere {
+    margin-top: -20%;
+    margin-left: 50%;
+    width: 50%;
+    
+}
+
+.photo {
+    margin-left: 5%;
+    margin-top: -31%;
+    font-size: 230%;
+    color: white;
+    text-align: center;
+    margin: 0;
+    padding: 0;
+}
+
+.photo1 {
+    margin-left: 5%;
+    margin-top: -2%;
+    font-size: 230%;
+    color: white;
+    text-align: center;
+    margin-top: 2%;
+}
+
+.carre2 {
+    margin-left: 50%;
+    margin-top: 40%;
+    background-color: #FF9F54;
+    height: 90%;
+    width: 50%;
+}
+
+.text {
+    padding-top: 10%;
+    font-size: 230%;
+    width: 80%;
+    padding-left: 10%;
+    color: white;
+    text-align: center;
+}
+
+
+
+.VR {
+    margin-left: 49%;
+    margin-top: 5%;
+    width: 60%;
+   
+}
+
+
+
+.cube {
+    margin-top: -40%;
+    background-color: #FF9F54;
+    height: 40%;
+    width: 50%;
+}
+
+.VRC {
+    height: 40%;
+    width: 40%;
+    margin-left: 60%;
+    margin-top: -30%;
+}
+
+.texto {
+    margin-top: -20%;
+    font-size: 230%;
+    color: white;
+    padding-top: 10%;
+    padding-left: 1%;
+    text-align: center;
+}
+
+.cubos {
+    background-color: #FF9F54;
+    height: 400px ;
+    width: 50%;
+    margin-top: 20%;
+}
+
+
+.temoignage{
+    background-color: #FF9F54;
+    top: 300%;
+    left: 33%;
+    height: 25%;
+    width: 35%;
+    color: white;
+    position: absolute;
+    text-align: center;
+}
+
+.tem{
+    margin-top: 12%;
+    font-size: 330%;
+}
+
+
+.damiens{
+    width: 70%;
+    position: absolute;
+    top: 340%;
+    left: 30%;
+}
+
+
+.loris{
+    position: absolute;
+    top: 450%;
+    width: 70%;
+}
+
+.inscri{
+    padding:6px 0 12px 0;
+    background:#fff;
+    color:#ff9f54;
+    border-radius:4px;
+    width: 20%;
+    border: solid #ff9f54;
+    transition: 0.3s;
+    font-weight: bold;
+    position: absolute;
+    top: 550%;
+    left: 40%;
+}
+
+.inscri:hover {
+background-color: #ff9f54;
+color: white;
+}
+
+
+
+
+.footer {
+    font-family: Open sans, 'Helvetica Neue', Helvetica, sans-serif;
+    color: black;
+    position: absolute;
+    top: 570%;
+    width: 100%;
+    height: 49%;
+    background: #FF9F54;
+}
+
+.footer-content {
+  margin: 0px 40px;
+    width: 170px;
+    height: 200px;
+    float: left;
+    padding: 15px 15px 0 30px;
+}
+
+.footer-content > h2 {
+    font-weight: 900;
+    font-size: 24px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.footer-content ul > li{
+    font-weight: 700;
+}
+
+.footer-content > ul {
+    list-style-type: none;
+}
+
+.footer-content > ul > li {
+  padding: 5px;
+}
+
+.footer-content img{
+  width:20px;
+}
+
+.footer-content > ul > li:hover{
+  color: white;
+}
+
+
+.push_button{
+  float: left;
+        position:relative;
+        width:100px;
+        height: 1px;
+        color:black;
+        display:block;
+        text-decoration:none;
+        margin:0 auto;
+        border-radius:7px;
+        border:solid 3px black;
+        background:white;
+        text-align:center;
+        padding:15px 10px 30px 10px;
+        -webkit-transition: all 0.1s;
+        -moz-transition: all 0.1s;
+        transition: all 0.1s;
+}
+
+
+
+input[type="text"],
+textarea,
+select {
+    background: rgba(255,255,255,0.8);
+    border: none;
+    font-size: 16px;
+    height: auto;
+    margin: 0;
+    outline: 0;
+    padding: 15px;
+    width: 100%;
+    background-color: #e8eeef;
+    color: #8a97a0;
+    box-shadow: 0 1px 0 rgba(0,0,0,0.03) inset;
+    margin-bottom: 10px;
+    -webkit-box-shadow: 0px 2px 0px black;
+    -moz-box-shadow: 0px 2px 0px black;
+    box-shadow: 0px 2px 0px black;
+}
+
+.image1 img{
+  position: relative;
+  width: 50px;
+  right: 90%;
+  margin-top: 19%;
+}
+
+#newsletter{
+    position: relative;
+    left: 25%;
+}

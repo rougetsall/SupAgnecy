@@ -1,0 +1,665 @@
+
+
+
+
+@media only screen and (max-width: 700px) {
+	
+
+	body{
+	margin: 0;
+		font-family: "Open Sans";
+		background-size: 760px;
+		background-color: #fff;}
+
+	.back{
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+	.contant{
+		width: 70%;
+		height: auto;
+	}
+	.contant img {
+		position: absolute;
+		width: 56%;
+		height: 70%;
+		
+		margin-top: -155%;
+    }
+
+	.contante{
+		position: absolute;
+		transition: 2s;
+		margin-left: 8%;
+		display: flex;
+		justify-content: space-between;
+		margin-top: -150%;
+
+	}
+	.menu1{
+	width: 6%;
+	height: 3%;
+	margin-left: 4%;
+	
+
+    }
+    .logo{
+    	position: absolute;
+    	width: 30%;
+	height: 30%;
+
+	margin-top: -6%;
+	margin-left: 25%;
+    }
+	.menu{
+		position: absolute;
+		width: 5%;
+		height: 5%;
+		margin-left: 10%;
+		margin-top: -170%;
+
+	}
+	.logos{
+		position: absolute;
+		width: 25%;
+		height: 25%;
+		margin-left: 35%;
+		margin-top: -187%;
+
+	}
+	
+	.logoagency{
+		position: absolute;
+		width: 17%;
+		height: 7%;
+		margin-left: 75%;
+		margin-top: -177%;
+
+	}
+	.logomini{
+		position: absolute;
+		width: 6%;
+		height: 6%;
+		margin-left: 89%;
+		margin-top: -177%;
+
+	}
+	
+	.rv{
+		position: absolute;
+		width: 14%;
+		height: 10%;
+		margin-left: 50%;
+		margin-top: -53%;
+	}
+	.ville{
+
+		width: 40%;
+		height: 80%;
+		margin-top: 20%;
+		margin-left: 6%;
+		display: table-row;
+
+	}
+
+	.vil{
+	   text-align: center;
+		border: solid 4px #fff;
+		width: 150%;
+		height: 15%;
+		margin-left:10%; 
+	   color: #fff;
+	   font-family: "Open Sans";
+ 
+	}
+	.vil h2{
+		margin-top: 20%;
+		font-family: "Open Sans";
+	}
+	
+
+	.band{
+	  background-color: #FFF;
+		width: 7%;
+		height: 20%;
+		margin-left: 80%;
+	}
+	.even{
+		margin-top: -3%;
+		font-size: 40px;
+		margin-left: 190%;
+		color: #ffff;
+	}
+	.arc{
+		margin-top: -60%;
+		font-size: 45px;
+		margin-left: 20%;
+		color: #fff;
+	}
+	.contact{
+
+	 position: relative;
+	    margin-top: -169%; 
+		width: 50%;
+		height: 80%;
+		transition: 2s;
+		margin-left: -150%;
+	}
+	.contact img{
+		
+	   margin-top: -17%;
+		width: 135%;
+		height: 125%;
+		margin-left: -150%;
+		
+	}
+	.contacts{
+
+	 position: relative;
+	  font-family: "Open Sans";
+		width: 55%;
+		height: 80%;
+		transition: 2s;
+		margin-top: -187%;
+		margin-left: -50%;
+	}
+	.contacts img{
+		
+	   margin-top: -17%;
+		width: 95%;
+		height: 70%;
+
+		
+	}
+	.prposs{
+		position: absolute;
+		color: #fff;
+		font-size: 20px;
+		margin-top: -70%;
+		
+
+	}
+
+	.bandpropos{
+		position: absolute;
+	    margin-top: -7%;
+	    margin-left: 10%;
+		background-color: #fff;
+		width: 80%;
+		height: 2%;
+		 border-radius: 20px;
+		 font-family: "Open Sans";
+
+	}
+	.croixs{
+		position: absolute;
+	   margin-top: -80%;
+	   margin-left: 5%;
+		width: 10%;
+		height: 10%;
+
+	}
+	.croixs img{
+		
+		width: 100%;
+		height: 100%;
+
+	}
+	.prpos{
+		position: absolute;
+		color: #fff;
+		font-size: 20px;
+		margin-top: -100%;
+		margin-left: -120%;
+	}
+	.prpos ul{
+		margin-top: -15%;
+		padding-top: 30%;
+		padding-bottom: 10%;
+		font-family: "Open Sans";
+	}
+	.bandpropo{
+		position: absolute;
+	    margin-top: -7%;
+	    margin-left: 10%;
+		background-color: #fff;
+		width: 80%;
+		height: 2%;
+		 border-radius: 20px;
+	}
+	.croix{
+		position: absolute;
+		margin-top:-4%;
+		margin-left: -12%;
+		width: 4%;
+		height: 5%;
+		margin-top: -120%;
+		margin-left: -100%;
+		
+	}
+	a{
+		color: #fff;
+		text-decoration:none;
+
+	}
+	.Inter{
+		position: absolute;
+		font-size: 30px;
+		color: #fff;
+		margin-left: 5%;
+		margin-top: 60%;
+		width: 60%;
+		height: 20%;
+		
+	}
+
+	.bandelille{
+		position: relative;
+		width: 100%;
+		height: 100%;
+		margin-top: 50%;
+
+	}
+	.inscrir{
+		position: absolute;
+		width: 24%;
+		height: 5%;
+		background-color: #FFA254;
+		margin-left: 60%;
+		margin-top: -150%;
+		
+	}
+  .fest{
+	position: absolute;
+	width: 40%;
+	height: 65%;
+	margin-top: -110%;
+	
+	margin-left: 30%;
+	display: flex;
+	background-image: url("image/lilleee.png");
+  z-index: 1;
+	background-size: contain;
+    background-repeat: no-repeat;
+	}
+	.festparis{
+		font-family: "Open Sans";
+	position: absolute;
+	width: 44%;
+	height: 54%;
+	margin-top: -124%;
+	
+	margin-left: 34%;
+	display: flex;
+	background-image: url("image/parissss.png");
+background-size: contain;
+background-repeat: no-repeat;
+	z-index: 1;
+
+	}
+	.festparis div{
+		color: #fff;
+	margin-top: 30%;
+	margin-left: -17%;
+	font-size: 50px;
+
+	font-family: "Open Sans";
+	 font-weight:bolder;
+	z-index: 1;
+	}
+     .festlyon{
+		font-family: "Open Sans";
+	position: absolute;
+	width: 54%;
+	height: 64%;
+	margin-top: -110%;
+
+	margin-left: 30%;
+	display: flex;
+	background-image: url("image/lyonn.png");
+	background-size: contain;
+background-repeat: no-repeat;
+	
+	z-index: 1;
+
+	}
+	.festlyon div{
+		color: #fff;
+	margin-top: 40%;
+	margin-left: 10%;
+	font-size: 50px;
+	z-index: 1;
+	}
+	
+
+	.fest div{
+
+	color: #fff;
+	margin-top: 40%;
+	margin-left: 10%;
+	font-size: 50px;
+	font-family: "Open Sans";
+	}
+
+   .emil{
+   	border: 0;
+   }
+	.fives{
+		position: absolute;
+		color: #000;
+		margin-top: -37%;
+		margin-left: 35%;
+   font-family: "Open Sans";
+	}
+	.datejuin{
+		color: #DF7401;
+		margin-top: -5%;
+		margin-left: 23%;
+		font-weight: bold;
+	}
+	.datejuin1{
+		color: #DF7401;
+		margin-top: -5%;
+		font-weight: bold;
+	}
+	.datejuin2{
+		color: #DF7401;
+		margin-top: -5%;
+		margin-left: 25%;
+		font-weight: bold;
+		font-size: 20px;
+	}
+	.contacts1{
+	width:100%;
+	height: 100%;
+	margin-top: 150%;
+	font-family: "Open Sans";
+
+	}
+	.femmevr{
+	width:60%;
+	height: 60%;
+
+	margin-left: 40%;
+	}
+	.femmevr img{
+	width:80%;
+	height: 70%;
+
+	margin-left: 10%;
+	}
+
+	.bandes{
+	width:46%;
+	height: 5%;
+	background-color: red;
+	}
+	.Inter1{
+		
+		font-size: 15px;
+		color: #000;
+		margin-left: 4%;
+		margin-top: 5%;
+		width: 60%;
+		height: 20%;
+		font-weight: bold;
+		
+	}
+	.text{
+	width:80%;
+	height: 70%;
+	
+	margin-left: 10%;
+	color: #A4A4A4;
+	}
+	.footer{
+		width:100%;
+	height: 100%;
+	
+	background-color: #FFA254;
+	}
+	.footer span{
+		color: #ffff;
+	}
+	.footer div{
+		margin-left: 3%;
+	}
+	.footer .reseau{
+	
+	width: 50%;
+	height: 10%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: space-around;
+
+	}
+	.reseau img{
+		margin-left: 10%;
+		width: 30px;
+		height: 30px;
+		
+	}
+	.reseau a{
+		margin-left: 10%;
+	    width: 30px;
+		height: 30px;
+	}
+	.footer  input{
+	
+	width: 30%;
+	height: 5%;
+	font-size: 20px;
+   	background-color: #FFA254;
+   	padding-left: 4%;
+   	border-bottom:solid 5px #000;
+	}
+	.valide{
+		width: 20%;
+	   height: 5%;
+
+		border:solid 3px #000;
+		margin-left: 10%;
+	}
+	.footerc{
+		width:100%;
+	height: 100%;
+	margin-top: 145%;
+	background-color: #FFA254;
+	}
+	.footerc span{
+		color: #ffff;
+	}
+	.footerc div{
+		margin-left: 3%;
+	}
+	.footerc .reseau{
+	
+	width: 50%;
+	height: 10%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: space-around;
+
+	}
+	.footerc .reseau img{
+		margin-left: 10%;
+		width: 30px;
+		height: 30px;
+		
+	}
+	.footerc .reseau a{
+		margin-left: 10%;
+	    width: 30px;
+		height: 30px;
+	}
+	.footerc  input{
+	
+	width: 30%;
+	height: 5%;
+	font-size: 20px;
+   	background-color: #FFA254;
+   	padding-left: 4%;
+   	border-bottom:solid 5px #000;
+	}
+	.footerc .valide{
+		width: 20%;
+	   height: 5%;
+
+		border:solid 3px #000;
+		margin-left: 10%;
+	}
+	.contantes{
+		position: absolute;
+		margin-top: -170%;
+		margin-left: 7%;
+		font-size: 150%;
+	}
+	.contantes hr{
+		position: absolute;
+		width: 100%;
+	   height: 2%;
+		margin-left: -17%;
+		margin-top: -10%; 
+		background-color: #BDBDBD;
+	}
+	.lieux{
+      position: absolute;
+      margin-left: 7%;
+		font-size: 20px;
+		margin-top: -146%;
+		margin-left: 7%;
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.lieux input{
+    
+      margin-left: 55%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+    border: 0;
+
+	}
+	.tel{
+      position: absolute;
+      margin-left: 13%;
+		font-size: 20px;
+		margin-top: -120%;
+		
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.tel input{
+    
+      margin-left: 43%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+    border: 0;
+
+	}
+	.email{
+      position: absolute;
+      margin-left: 6%;
+		font-size: 20px;
+		margin-top: -85%;
+		
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.email input{
+    
+      margin-left: 62%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+	   border: 0;
+   
+   background-color: #FFA254;
+	}
+	.lieuxhr{
+      
+   position: absolute;
+		width: 55%;
+	   height: 2px;
+	   border-radius: 20px;
+		margin-left: 27%;
+		margin-top: -125%;
+		background-color: #BDBDBD;
+	}
+.telhr{
+      
+   position: absolute;
+		width: 55%;
+	   height: 2px;
+	   border-radius: 20px;
+		margin-left: 27%;
+		margin-top: -95%;
+		background-color: #BDBDBD;
+	}
+
+
+
+}
+
+@media only screen and (min-width: 700px) {
+		.femmevr{
+			display: none;
+		}
+	.footer{
+		display: none;
+	}
+		.Inter1{
+			display: none;
+}
+.Inter{
+			display: none;
+}
+.text{
+			display: none;
+}
+.contacts{
+			display: none;
+}
+.back{
+	display: none;
+}
+.bandelille{
+		display: none;
+}
+.contante{
+	display: none;
+}
+.contant {
+	display: none;
+}
+.menu{
+	display: none;
+
+}
+.menu1{
+	display: none;
+
+}
+.Inter{
+	display: none;
+
+}
+.contact{
+	display: none;
+
+}
+.rv{
+	display: none;
+
+}
+
+
+}

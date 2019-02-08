@@ -1,0 +1,1573 @@
+
+
+
+
+@media only screen and (max-width: 700px) {
+	.desktop{
+	display: none;
+	}
+	body{
+	margin: 0;
+		font-family: "Open Sans";
+}
+	
+	.back{
+		position: relative;
+		width: 100%;
+		height: auto;
+	}
+	.contant{
+		width: 70%;
+		height: auto;
+	}
+	.contant img {
+		position: absolute;
+		width: 56%;
+		height: 70%;
+		
+		margin-top: -155%;
+    }
+
+	.contante{
+		position: absolute;
+		transition: 2s;
+		margin-left: 8%;
+		display: flex;
+		justify-content: space-between;
+		margin-top: -150%;
+
+	}
+	.menu1{
+	width: 6%;
+	height: 3%;
+	margin-left: 4%;
+	
+
+    }
+    .logo{
+    	position: absolute;
+    	width: 30%;
+	height: 30%;
+
+	margin-top: -6%;
+	margin-left: 25%;
+    }
+	.menu{
+		position: absolute;
+		width: 5%;
+		height: 5%;
+		margin-left: 10%;
+		margin-top: -170%;
+
+	}
+	.logos{
+		position: absolute;
+		width: 25%;
+		height: 25%;
+		margin-left: 35%;
+		margin-top: -185%;
+
+	}
+	
+	.logoagency{
+		position: absolute;
+		width: 17%;
+		height: 7%;
+		margin-left: 75%;
+		margin-top: -176%;
+
+	}
+	.logomini{
+		position: absolute;
+		width: 6%;
+		height: 6%;
+		margin-left: 89%;
+		margin-top: -177%;
+
+	}
+	
+	.rv{
+		position: absolute;
+		width: 14%;
+		height: 10%;
+		margin-left: 50%;
+		margin-top: -53%;
+	}
+	.ville{
+
+		width: 40%;
+		height: 80%;
+		margin-top: 20%;
+		margin-left: 6%;
+		display: table-row;
+
+	}
+
+	.vil{
+	   text-align: center;
+		border: solid 4px #fff;
+		width: 150%;
+		height: 15%;
+		margin-left:10%; 
+	   color: #fff;
+	   font-family: "Open Sans";
+ 
+	}
+	.vil h2{
+		margin-top: 20%;
+		font-family: "Open Sans";
+	}
+	
+
+	.band{
+	  background-color: #FFF;
+		width: 7%;
+		height: 20%;
+		margin-left: 80%;
+	}
+	.even{
+		margin-top: -3%;
+		font-size: 40px;
+		margin-left: 190%;
+		color: #ffff;
+	}
+	.arc{
+		margin-top: -60%;
+		font-size: 45px;
+		margin-left: 20%;
+		color: #fff;
+	}
+	.contact{
+
+	 position: relative;
+	    margin-top: -169%; 
+		width: 50%;
+		height: 80%;
+		transition: 2s;
+		margin-left: -150%;
+	}
+	.contact img{
+		
+	   margin-top: -17%;
+		width: 135%;
+		height: 125%;
+		margin-left: -150%;
+		
+	}
+	.contacts{
+
+	 position: relative;
+	  font-family: "Open Sans";
+		width: 55%;
+		height: 80%;
+		transition: 2s;
+		margin-top: -187%;
+		margin-left: -50%;
+	}
+	.contacts img{
+		
+	   margin-top: -17%;
+		width: 95%;
+		height: 70%;
+
+		
+	}
+	.prposs{
+		position: absolute;
+		color: #fff;
+		font-size: 20px;
+		margin-top: -70%;
+		
+
+	}
+
+	.bandpropos{
+		position: absolute;
+	    margin-top: -7%;
+	    margin-left: 10%;
+		background-color: #fff;
+		width: 80%;
+		height: 2%;
+		 border-radius: 20px;
+		 font-family: "Open Sans";
+
+	}
+	.croixs{
+		position: absolute;
+	   margin-top: -80%;
+	   margin-left: 5%;
+		width: 10%;
+		height: 10%;
+
+	}
+	.croixs img{
+		
+		width: 100%;
+		height: 100%;
+
+	}
+	.prpos{
+		position: absolute;
+		color: #fff;
+		font-size: 20px;
+		margin-top: -100%;
+		margin-left: -120%;
+	}
+	.prpos ul{
+		margin-top: -15%;
+		padding-top: 30%;
+		padding-bottom: 10%;
+		font-family: "Open Sans";
+	}
+	.bandpropo{
+		position: absolute;
+	    margin-top: -7%;
+	    margin-left: 10%;
+		background-color: #fff;
+		width: 80%;
+		height: 2%;
+		 border-radius: 20px;
+	}
+	.croix{
+		position: absolute;
+		margin-top:-4%;
+		margin-left: -12%;
+		width: 4%;
+		height: 5%;
+		margin-top: -120%;
+		margin-left: -100%;
+		
+	}
+	a{
+		color: #fff;
+		text-decoration:none;
+
+	}
+	.Inter{
+		position: absolute;
+		font-size: 30px;
+		color: #fff;
+		margin-left: 5%;
+		margin-top: 60%;
+		width: 60%;
+		height: 20%;
+		
+	}
+
+	.bandelille{
+		position: relative;
+		width: 100%;
+		height: 100%;
+		margin-top: 50%;
+
+	}
+	.inscrir{
+		position: absolute;
+		width: 24%;
+		height: 5%;
+		background-color: #FFA254;
+		margin-left: 60%;
+		margin-top: -150%;
+		
+	}
+  .fest{
+	position: absolute;
+	width: 40%;
+	height: 65%;
+	margin-top: -110%;
+	
+	margin-left: 30%;
+	display: flex;
+	background-image: url("image/lilleee.png");
+  z-index: 1;
+	background-size: contain;
+    background-repeat: no-repeat;
+	}
+	.festparis{
+		font-family: "Open Sans";
+	position: absolute;
+	width: 44%;
+	height: 54%;
+	margin-top: -124%;
+	
+	margin-left: 34%;
+	display: flex;
+	background-image: url("image/parissss.png");
+     background-size: contain;
+    background-repeat: no-repeat;
+	z-index: 1;
+
+	}
+	.festparis div{
+		color: #fff;
+	margin-top: 30%;
+	margin-left: -17%;
+	font-size: 50px;
+
+	font-family: "Open Sans";
+	 font-weight:bolder;
+	z-index: 1;
+	}
+     .festlyon{
+		font-family: "Open Sans";
+	position: absolute;
+	width: 54%;
+	height: 64%;
+	margin-top: -110%;
+
+	margin-left: 30%;
+	display: flex;
+	background-image: url("image/lyonn.png");
+	background-size: contain;
+    background-repeat: no-repeat;
+	
+	z-index: 1;
+
+	}
+	.festlyon div{
+		color: #fff;
+	margin-top: 40%;
+	margin-left: 10%;
+	font-size: 50px;
+	z-index: 1;
+	}
+	
+
+	.fest div{
+
+	color: #fff;
+	margin-top: 40%;
+	margin-left: 10%;
+	font-size: 50px;
+	font-family: "Open Sans";
+	}
+
+   .emil{
+   	border: 0;
+   }
+	.fives{
+		position: absolute;
+		color: #000;
+		margin-top: -37%;
+		margin-left: 35%;
+   font-family: "Open Sans";
+	}
+	.datejuin{
+		color: #DF7401;
+		margin-top: -5%;
+		margin-left: 23%;
+		font-weight: bold;
+	}
+	.datejuin1{
+		color: #DF7401;
+		margin-top: -5%;
+		font-weight: bold;
+	}
+	.datejuin2{
+		color: #DF7401;
+		margin-top: -5%;
+		margin-left: 25%;
+		font-weight: bold;
+		font-size: 20px;
+	}
+	.contacts1{
+	width:100%;
+	height: 100%;
+	margin-top: 150%;
+	font-family: "Open Sans";
+
+	}
+	.femmevr{
+	width:60%;
+	height: 60%;
+
+	margin-left: 40%;
+	}
+	.femmevr img{
+	width:80%;
+	height: 70%;
+
+	margin-left: 10%;
+	}
+
+	.bandes{
+	width:46%;
+	height: 5%;
+	background-color: red;
+	}
+	.Inter1{
+		
+		font-size: 15px;
+		color: #000;
+		margin-left: 4%;
+		margin-top: 5%;
+		width: 60%;
+		height: 20%;
+		font-weight: bold;
+		
+	}
+	.text{
+	width:80%;
+	height: 70%;
+	
+	margin-left: 10%;
+	color: #A4A4A4;
+	}
+	.footer{
+		width:100%;
+	height: 100%;
+	
+	background-color: #FFA254;
+	}
+	.footer span{
+		color: #ffff;
+	}
+	.footer div{
+		margin-left: 3%;
+	}
+	.footer .reseau{
+	
+	width: 50%;
+	height: 10%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: space-around;
+
+	}
+	.reseau img{
+		margin-left: 10%;
+		width: 30px;
+		height: 30px;
+		
+	}
+	.reseau a{
+		margin-left: 10%;
+	    width: 30px;
+		height: 30px;
+	}
+	.footer  input{
+	
+	width: 30%;
+	height: 5%;
+	font-size: 20px;
+   	background-color: #FFA254;
+   	padding-left: 4%;
+   	border-bottom:solid 5px #000;
+	}
+	.valide{
+		width: 20%;
+	   height: 5%;
+
+		border:solid 3px #000;
+		margin-left: 10%;
+	}
+	.footerc{
+		width:100%;
+	height: 100%;
+	margin-top: 145%;
+	background-color: #FFA254;
+	}
+	.footerc span{
+		color: #ffff;
+	}
+	.footerc div{
+		margin-left: 3%;
+	}
+	.footerc .reseau{
+	
+	width: 50%;
+	height: 10%;
+	margin-left: 20%;
+	display: flex;
+	justify-content: space-around;
+
+	}
+	.footerc .reseau img{
+		margin-left: 10%;
+		width: 30px;
+		height: 30px;
+		
+	}
+	.footerc .reseau a{
+		margin-left: 10%;
+	    width: 30px;
+		height: 30px;
+	}
+	.footerc  input{
+	
+	width: 30%;
+	height: 5%;
+	font-size: 20px;
+   	background-color: #FFA254;
+   	padding-left: 4%;
+   	border-bottom:solid 5px #000;
+	}
+	.footerc .valide{
+		width: 20%;
+	   height: 5%;
+
+		border:solid 3px #000;
+		margin-left: 10%;
+	}
+	.contantes{
+		position: absolute;
+		margin-top: -170%;
+		margin-left: 7%;
+		font-size: 150%;
+	}
+	.contantes hr{
+		position: absolute;
+		width: 100%;
+	   height: 2%;
+		margin-left: -17%;
+		margin-top: -10%; 
+		background-color: #BDBDBD;
+	}
+	.lieux{
+      position: absolute;
+      margin-left: 7%;
+		font-size: 20px;
+		margin-top: -146%;
+		margin-left: 7%;
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.lieux input{
+    
+      margin-left: 55%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+    border: 0;
+
+	}
+	.tel{
+      position: absolute;
+      margin-left: 13%;
+		font-size: 20px;
+		margin-top: -120%;
+		
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.tel input{
+    
+      margin-left: 43%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+    border: 0;
+
+	}
+	.email{
+      position: absolute;
+      margin-left: 6%;
+		font-size: 20px;
+		margin-top: -85%;
+		
+		padding-bottom: 30%;
+	   height: 2%;
+
+	}
+	.email input{
+    
+      margin-left: 62%;
+		font-size: 27px;
+		margin-top:16%;
+		width: 100%;
+	   height: 180%;
+	   border: 0;
+   
+   background-color: #FFA254;
+	}
+	.lieuxhr{
+      
+   position: absolute;
+		width: 55%;
+	   height: 2px;
+	   border-radius: 20px;
+		margin-left: 27%;
+		margin-top: -125%;
+		background-color: #BDBDBD;
+	}
+	.telhr{
+	      
+	   position: absolute;
+			width: 55%;
+		   height: 2px;
+		   border-radius: 20px;
+			margin-left: 27%;
+			margin-top: -95%;
+			background-color: #BDBDBD;
+	}
+}
+
+@media screen and (min-width: 700px) {
+		  .mobiles{
+				display: none;
+			}
+
+			body{
+			margin: 0;
+				font-family: "Open Sans";
+		}
+		.backz{
+			position: relative;
+			width: 100%;
+			height: 150%;
+		}
+
+		.menuz{
+			position: absolute;
+			width: 5%;
+			height: 5%;
+			margin-left: 10%;
+			margin-top: -55%;
+
+		}
+		.contantez{
+			position: absolute;
+			transition: 2s;
+			margin-left: 8%;
+			display: flex;
+			justify-content: space-between;
+			margin-top: -50%;
+		}
+		.villez{
+
+			width: 20%;
+			height: 80%;
+			margin-top: 3%;
+			margin-left: 6%;
+			display: table-row;
+
+		}
+
+		.evenz{
+			
+			width: 64%;
+			height: 80%;
+			margin-top: 4%;
+		}
+		.categorierz{
+			
+			width: 20%;
+			height: 80%;
+			margin-top: 3%;
+			margin-left: 8%;
+			color: #fff;
+		}
+		.bandz{
+
+			background-color: #FFF;
+			width: 2%;
+			height: 15%;
+			margin-left: 50%;
+		}
+
+		#parisz{
+		   text-align: center;
+			border: solid 4px #fff;
+			width: 50%
+			height: 10%;
+			margin-left:10%; 
+		   color: #fff;
+		   font-family: "Open Sans";
+
+			
+		}
+		#parisz h2{
+			margin-top: 10%;
+		}
+		#lillez{
+		   text-align: center;
+			border: solid 4px #fff;
+			width: 50%
+			height: 10%;
+			margin-left:10%; 
+		   color: #fff;
+		   font-family: "Open Sans";
+
+			
+		}
+		#lillez h2{
+			margin-top: 10%;
+		}
+		#lionz{
+		   text-align: center;
+			border: solid 4px #fff;
+			width: 50%
+			height: 10%;
+			margin-left:10%; 
+		   color: #fff;
+		   font-family: "Open Sans";
+
+			
+		}
+		#lionz h2{
+			margin-top: 10%;
+		}
+			
+
+			.datelz{
+				display: none;
+			}
+			.datelnz{
+				display: none;
+			}
+			.parisz:hover, .vilz:focus{
+			text-align: center;
+			border: solid 4px #fff;
+			width: 50%;
+			height: 10%;
+			margin-left:10%; 
+		   color: #fff;
+		   font-family: "Open Sans";
+
+			   
+			}
+			
+
+			.parisz{
+				text-align: center;
+				border: solid 6px #fff;
+				width: 60%;
+				height: 15%;
+				margin-left:10%; 
+				font-size: 25px;
+			   color: #000;
+			   background-color: #fff;
+			}
+		.evensz{
+			font-size: 300%;
+			margin-top: -8%;
+			color: #fff;
+			font-family: "Open Sans";
+			margin-left: 8%;
+		}
+		.arcz {
+		margin-top: -10%;
+		}
+		.reseauz{
+			
+			width: 60%;
+			height: 15%;
+			margin-top: 27%;
+			display: flex;
+
+		}
+		.reseauz img{
+			margin-left: 10%;
+			width: 38px;
+			height: 38px;
+		}
+		.reseauz a{
+			margin-left: 10%;
+			width: 38px;
+			height: 38px;
+		}
+		.bandsz{
+			width: 50%;
+			height: 1%;
+			margin-top: -5%;
+			margin-left: 8%;
+			 border-radius: 20px;
+			background-color: #fff;
+		}
+		.bandsez{
+			width: 30%;
+			height: 2px;
+			margin-top: 10%;
+			margin-left: 16%;
+			 border-radius: 20px;
+			background-color: #fff;
+		}
+		.notez{
+			margin-top: 5%;
+			margin-left: 8%;
+			font-size: 22px;
+			color: #fff;
+		}
+		.voirz{
+			width: 80%;
+			height: 8%;
+			margin-top: 35%;
+			text-align: center;
+			text-align: top 10%;
+			margin-left: -3%;
+			font-size: 20px;
+			 border-radius: 10px;
+			border: solid 3px #fff;`
+
+
+		}
+		.voirz div{
+			margin-top: 5%;
+		}
+		.meslogoz{
+			position: absolute;
+			width: 40%;
+			height: 40%;
+			margin-top: 55%;
+			margin-left: -4%;
+		}
+
+		.logogo{
+			position: absolute;
+		   width: 15%;
+			height: 30%;
+			margin-left: 40%;
+			margin-top: -12%;
+
+			
+		}
+		.meslogoz img{
+			width: 20%;
+			height: 25%;
+		}
+
+
+		.contactz{
+
+		 position: relative;
+		    margin-top: -50%; 
+			width: 50%;
+			height: 80%;
+			transition: 2s;
+			margin-left: -150%;
+		}
+		.contactz img{
+			
+		   margin-top: -17%;
+			width: 148%;
+			height: 135%;
+			margin-left: -150%;
+			
+		}
+		.prposz{
+			position: absolute;
+			color: #fff;
+			font-size: 30px;
+			margin-top: -70%;
+			margin-left: -100%;
+		}
+		.prposz ul{
+			margin-top: -15%;
+			padding-top: 35%;
+			padding-bottom: 19%;
+			
+		}
+		.prposz  a{
+       text-decoration: none;
+       color: #fff;
+		}
+		.bandpropoz{
+			position: absolute;
+		    margin-top: -7%;
+			background-color: #fff;
+			width: 80%;
+			height: 2%;
+			 border-radius: 20px;
+		}
+		.croixz{
+			position: absolute;
+			margin-top:13%;
+			margin-left: 2%;
+			width: 3%;
+			height: 4%;
+			margin-top: -110%;
+			margin-left: -90%;
+			
+		}
+		.datez{
+			margin-left: 15%;
+		}
+		.menuparis{
+			
+			
+			width: 30%;
+			height: 60%;
+		}
+		.menuparis img{
+			
+			width: 100%;
+			height: 100%;
+		}
+		.menupz{
+
+			position: absolute;
+			width: 5%;
+			height: 5%;
+			margin-left: 1%;
+			margin-top: -84%;
+		}
+		.meslogoparis{
+			margin-top: -15%;
+			width: 20%;
+			height: 20%;
+		}
+		.meslogoparis img{
+			width: 24%;
+			height: 25%;
+		}
+		.logogoparis{
+		position: absolute;
+		   width: 15%;
+			height: 30%;
+			margin-left: 22%;
+			margin-top: -77%;
+		}
+		.logogoparis img{
+		position: absolute;
+		   width: 25%;
+			height: 40%;
+			margin-left: 20%;
+			margin-top: -60%;
+		}
+
+		.villiparis{
+            
+			width: 130%;
+			hyphens: 90%;
+			margin-left: 60%;
+			margin-top: -300%;
+		}
+		.parisvil{
+		
+			text-align: center;
+			border: solid 4px #fff;
+			width: 140%
+			height: 8%;
+			font-size: 20px;
+		   color: #fff;
+		   font-family: "Open Sans";
+
+		}
+		.parisvils{
+		
+			text-align: center;
+			border: solid 4px #fff;
+			width: 140%
+			height: 8%;
+			font-size: 20px;
+		   color: #000;
+		   font-family: "Open Sans";
+		   background-color: #fff;
+		   font-weight: bolder;
+
+		}
+		.bandparis{
+		
+			background-color: #FFF;
+			width: 3%;
+			height: 10%;
+			margin-left: 50%;
+		}
+		.foott{
+			position: absolute;
+			margin-top: -55%;
+			width: 70%;
+			height: 80%;
+			margin-left: 5%;
+
+
+		}
+		.photoparis{
+			border: solid 5px blue;
+			position: absolute;
+			margin-top: -83%;
+			width: 32%;
+			height: 79%;
+			margin-left: 35%;
+		}
+		.photoparis img{
+			
+			position: absolute;
+			
+			width: 100%;
+			height: 100%;
+			
+		}
+		.photoln{
+			border: solid 5px blue;
+			position: absolute;
+			margin-top: -83%;
+			width: 28%;
+			height: 79%;
+			margin-left: 35%;
+		}
+		.photoln img{
+			
+			position: absolute;
+			
+			width: 100%;
+			height: 100%;
+			
+		}
+		.phparis{
+			
+			position: absolute;
+			margin-top: -63%;
+			width: 45%;
+			height: 30%;
+			margin-left: 53%;
+		}
+		.phparis span{
+			color: #fff;
+			position: absolute;
+			margin-top: -5%;
+			font-weight: bolder;
+			font-size: 15.2em;
+			font-family: "open sans";
+
+		}
+		.nombreln span{
+			color: #848484;
+			position: absolute;
+			margin-top: -84%;
+			margin-left: 63%;
+			font-weight: bolder;
+			font-size: 12.2em;
+
+		}
+		.nombre span{
+			color: #848484;
+			position: absolute;
+			margin-top: -85%;
+			margin-left: 68%;
+			font-weight: bolder;
+			font-size: 13.2em;
+
+		}
+		.jb{
+			font-size: 2.2em;
+         
+
+		}
+		.juin span{
+			color: #848484;
+			position: absolute;
+			margin-top: -42%;
+			margin-left: 47%;
+			font-weight: bolder;
+			font-size: 17.2em;
+
+		}
+		.voirplus{
+			position: absolute;
+			border: solid 3px #fff;
+			width: 10%;
+			height: 4%;
+			color: #fff;
+			margin-top: -7%;
+			margin-left: 59%;
+			font-size: 20px;
+			border-radius: 20px;
+			text-align: center;
+
+		}
+		
+		
+
+#all{
+    position: absolute;
+    transition: 3s;
+}
+
+#header{
+   
+}
+
+#vague_inverse{
+    width: 98vw;
+    position: absolute;
+    z-index: -1;
+}
+
+#button_burger{
+    width: 0%;
+    left: 2%;
+    position: absolute;
+    background-color: #f0a822;
+    border: none;
+}
+
+#burger{
+
+}
+
+#logo{
+    width: 5%;
+    left: 12%;
+    position: absolute;
+    top: 0;
+}
+
+#button_fleche{
+    width: 9%;
+    left: 65%;
+    position: relative;
+    background-color: #ff9d55;
+    border: solid white 1px;
+    border-radius: 4px;
+}
+
+#div_fleche:hover {
+    background-color: grey;
+    color: white;
+  }
+
+#fleche{
+
+}
+
+#first{
+
+}
+
+#cote_gauche{
+ 
+}
+
+#paris_orange{
+    padding: 20px;
+    background-color: #ff9f54;
+    width: 30%;
+    height: 18%; 
+    text-align: center; 
+}
+
+#paris_white, #date {
+    margin: 0;
+    padding: 0;
+}
+#paris_white{
+    color: white;
+    font-weight: bold;
+    font-size: 300%;
+}
+#date{
+    font-size: 230%;
+    font-weight: bold;
+
+   
+}
+
+.pari{
+    text-align: center;
+
+}
+#div_texte{
+    top: 31%;
+    left: 10%;
+    position: absolute;
+    height: 15%;
+    width: 30%;
+    text-align: left;
+}
+
+#texte{
+    font-size: 150%;
+    font-weight: bold;
+}
+
+#cote_droit{
+    position: flex;
+    top: 15%;
+}
+
+#casque_vr2{
+    width: 55vw;
+    height: 78vh;
+    left: 60%;
+    position: relative;
+}
+
+#trait_orange{
+    background-color: #ff9f54;
+    width: 50vw;
+    height: 1vh;
+    border-radius: 10%;
+    position: absolute;
+    left: 39%;
+}
+
+#ville1{
+    width: 70vw;
+    position: relative;
+    left: 20%;
+}
+
+#texte_bas{
+    position: absolute;
+    left: 45%;
+}
+
+#texte_noir{
+    font-size: 210%;
+    font-weight: bold;
+}
+
+.texte_orange{
+    color: #ff9f54;
+    text-align: center;
+    justify-content: center;
+    font-size: 150%;
+    font-weight: bold;
+}
+
+.trait_noir{
+    display: block;
+    margin: auto;
+    width: 33%;
+    height: 5px;
+    background-color: black;
+}
+
+#inscription{
+        display: block;
+        margin: auto;
+        padding:12px 0 12px 0;
+        background:#fff;
+        color:#ff9f54;
+        border-radius:4px;
+        width: 50%;
+        border: solid #ff9f54;
+        transition: 0.3s;
+        font-weight: bold;
+        
+}
+
+#inscription:hover {
+  background-color: #ff9f54;
+  color: white;
+}
+
+/* #fin_orange{
+    height: 20%;
+    width: 98vw;
+    background-color: #ff9f54;
+    position: absolute;
+    top: 135%;
+} */
+
+
+
+
+
+
+
+.footer {
+    font-family: Open sans, 'Helvetica Neue', Helvetica, sans-serif;
+    color: black;
+    position: absolute;
+    top: 280%;
+    width: 100%;
+    height: 49%;
+    background: #FF9F54;
+}
+
+.footer-content {
+  margin: 0px 40px;
+    width: 170px;
+    height: 200px;
+    float: left;
+    padding: 15px 15px 0 30px;
+}
+
+.footer-content > h2 {
+    font-weight: 900;
+    font-size: 24px;
+    padding-bottom: 5px;
+    color: white;
+}
+
+.footer-content ul > li{
+    font-weight: 700;
+}
+
+.footer-content > ul {
+    list-style-type: none;
+}
+
+.footer-content > ul > li {
+  padding: 5px;
+}
+
+.footer-content img{
+  width:20px;
+}
+
+.footer-content > ul > li:hover{
+  color: white;
+}
+
+
+.push_button{
+  float: left;
+        position:relative;
+        width:100px;
+        height: 1px;
+        color:black;
+        display:block;
+        text-decoration:none;
+        margin:0 auto;
+        border-radius:7px;
+        border:solid 3px black;
+        background:white;
+        text-align:center;
+        padding:15px 10px 30px 10px;
+        -webkit-transition: all 0.1s;
+        -moz-transition: all 0.1s;
+        transition: all 0.1s;
+}
+
+
+
+
+textarea{
+	width: 290%;
+	margin-left: 50%;
+}
+
+
+.image1 img{
+  position: relative;
+  width: 50px;
+  right: 90%;
+  margin-top: 19%;
+}
+
+#newsletter{
+    position: relative;
+    left: 25%;
+}
+
+
+
+.container {
+    display: flex;
+}
+
+.vague_inverse {
+    display: block;
+    width: 98vw;
+    height: 15vh;
+}
+
+
+.burger{
+    width: 4%;
+    
+    position: absolute;
+    top: 2%; 
+    left: 2%;
+}
+
+.logo{
+    width: 5%;
+    position: absolute;
+    top: -3%;    
+    left: 8%;   
+}
+
+
+.contact h1{
+    position: absolute;
+    margin-left: -58%;
+    widows: 100px;
+    top: -4%;
+    height: 100px;
+    font-size: 60px;
+    font-family: "open sans", sans-serif;
+    color: white;
+    
+}
+
+.container2{
+    display: flex;
+}
+
+.orangebox {
+    position: absolute;
+    margin-left: 23%;
+    width: 800px;
+    height: 750px;
+    top: 27%;
+    background-color: #FF9F54;
+}
+
+.nom {
+    font-size: 30px;
+    font-family: "open sans", sans-serif;
+    align-content: center;
+    left: 15%;
+    top: 3%;
+    color: white;
+    position: absolute;
+
+}
+
+.nom input {
+    border: none;
+    color: white;
+    border-bottom: 1px solid white;
+    background: none;
+}
+
+.button_nom{
+    position: absolute;
+    left: -55%;
+    top: 150%;
+}
+
+.prenom {
+    font-size: 30px;
+    align-content: center;
+    font-family: "open sans", sans-serif;
+    position: absolute;
+    left: 70%;
+    top: 3%;
+    color: white;
+}
+.prenom input {
+    border: none;
+    color: white;
+    border-bottom: 1px solid white;
+    background: none;
+    align-content: center;
+}
+
+.button_prenom{
+    left: -10%;
+    top: 150%;
+    position: absolute; 
+}
+
+
+.email {
+    font-size: 30px;
+    align-content: center;
+    position: absolute;
+    font-family: "open sans", sans-serif;
+    left: 44%;
+    top: 22%;
+    color: white;
+}
+
+.email input {
+    border: none;
+    color: white;
+    border-bottom: 1px solid white;
+    background: none;
+    align-content: center;
+}
+
+.button_mail{
+    left: -345%;
+    position: absolute;
+    top: 150%;
+    width: 800%;
+}
+
+input{
+    text-align: center;
+}
+
+
+.tel {
+    font-size: 30px;
+    align-content: center;
+    position: absolute;
+    font-family: "open sans", sans-serif;
+    left: 17%;
+    top: 317px;
+    color: white;
+}
+
+.tel input {
+    border: none;
+    color: white;
+    border-bottom: 1px solid white;
+    background: none;
+    align-content: center;
+}
+
+.button_tel{
+    position: absolute;
+    left: -110%;
+    top: 150%;
+}
+
+
+
+
+.dob {
+    font-size: 30px;
+    align-content: center;
+    font-family: "open sans", sans-serif;
+    position: absolute;
+    left: 70%;
+    top: 276px;
+    color: white;
+}
+
+
+.dob input {
+    border: none;
+    align-content: center;
+    color: white;
+    border-bottom: 1px solid white;
+    background: none;
+}
+
+.message {
+    font-size: 30px;
+    align-content: center;
+    position: absolute;
+    font-family: "open sans", sans-serif;
+    left: 42%;
+    top: 485px;
+    color: white;
+}   
+
+.textarea{
+    left: -142%;
+    position: absolute;
+}
+
+
+
+.send{
+    background-color: white;
+    position: absolute;
+    top: 92%;
+    left: 35%;
+    height: 7%;
+    width: 30%;   
+    text-align: center;
+    color: #ff9f54;
+    background-color: white;
+    border: none;
+    border-radius: 3%;
+}
+
+.send:hover {
+  background-color: #ff9f54;
+  color: white;
+  border: solid white 2px;
+}
+
+.blanche{
+    width: 10%;
+    top: 125%;
+    background-color: white;
+    height: 10%;
+    position: absolute;
+}
+
+}
