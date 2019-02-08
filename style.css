@@ -2,10 +2,7 @@
 
 
 
-@media only screen and (max-width: 700px) {
-	.desktop{
-	display: none;
-	}
+
 	body{
 	margin: 0;
 		font-family: "Open Sans";
@@ -604,12 +601,9 @@
 			margin-top: -95%;
 			background-color: #BDBDBD;
 	}
-}
 
-@media screen and (min-width: 700px) {
-		  .mobiles{
-				display: none;
-			}
+
+
 
 			body{
 			margin: 0;
@@ -1570,4 +1564,3 @@ input{
     position: absolute;
 }
 
-}
