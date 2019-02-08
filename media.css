@@ -2,69 +2,24 @@
 and (min-device-width : 768px) 
 and (max-device-width : 1024px){
 
-.desktop{
+.mobiles{
 	display: none;
 	}
 
 }
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : landscape) {
-	.desktop{
-	display: none;
-	}
-}
-@media only screen 
-and (min-device-width : 768px) 
-and (max-device-width : 1024px) 
-and (orientation : portrait) {
-	.desktop{
-	display: none;
-	}
-}
+
+
 @media (max-width: 640px) {
 .desktop{
 	display: none;
 	}
 }
-@media (min-width: 1025px) and (max-width: 1280px) {
-  
-  .mobiles{
-				display: none;
-			}
-  
-}
 
 
 
 
 
-/* 
-  ##Device = Tablets, Ipads (portrait)
-  ##Screen = B/w 768px to 1024px
-*/
 
-@media (min-width: 768px) and (max-width: 1024px) {
-  
- .desktop{
-	display: none;
-	}
-  
-}
-
-/* 
-  ##Device = Tablets, Ipads (landscape)
-  ##Screen = B/w 768px to 1024px
-*/
-
-@media (min-width: 768px) and (max-width: 1024px) and (orientation: landscape) {
-  
- .desktop{
-	display: none;
-	}
-  
-}
 
 /* 
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
