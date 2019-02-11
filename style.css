@@ -3,7 +3,7 @@
 
 
 @media only screen 
-and (min-width : 375px) 
+and (min-width : 317px) 
 and (max-width : 667px) {
 	.desktop{
 	display: none;
